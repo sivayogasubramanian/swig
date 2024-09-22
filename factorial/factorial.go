@@ -1,0 +1,3 @@
+package factorial
+
+import "C"

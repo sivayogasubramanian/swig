@@ -1,0 +1,7 @@
+%module factorial
+
+%{
+  #include "factorial.hpp"
+%}
+
+%include "factorial.hpp"
